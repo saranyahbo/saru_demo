@@ -1,6 +1,6 @@
 print("Hello world")
 print("welcome")
-a= 50
+a=10
 b=5
 c=a+b
 print(c)
